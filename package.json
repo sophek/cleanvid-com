@@ -1,0 +1,24 @@
+{
+  "name": "cleavid-subscription",
+  "version": "1.0.0",
+  "description": "Cleanvid.com Main Site ",
+  "author": "Sophek Tounn",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@braid/vue-formulate": "^2.4.3",
+    "netlify-identity-widget": "^1.5.5",
+    "nuxt": "^2.0.0",
+    "nuxt-stripe-module": "^2.1.0",
+    "primeflex": "^2.0.0-rc.1",
+    "primeicons": "^4.0.0",
+    "primevue": "^2.0.5",
+    "vue-stripe-checkout": "^3.5.7"
+  },
+  "devDependencies": {}
+}
