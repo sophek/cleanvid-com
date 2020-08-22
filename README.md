@@ -1,6 +1,6 @@
-# nuxt-netlify-identity
+# cleanvid-nuxt-netlify-identity
 
-> My polished Nuxt.js project
+> Cleanvid com subscription site
 
 ## Build Setup
 
